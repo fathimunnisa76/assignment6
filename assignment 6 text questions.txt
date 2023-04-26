@@ -1,0 +1,7 @@
+1. We use loops for iterating an object or for checking the condition multiple times without rewriting it.
+
+2. While loop is a infinite loop it will run if the given condition is true and it will runs untill the condition is false or if break the loop.
+
+3.Iterator is an object in python with multiple elements for example sequence(string,list,tuple) or set or it can be a dictionary in python.
+
+4.Increment is an statement in a loop that will increment the value of the variable by 1 
